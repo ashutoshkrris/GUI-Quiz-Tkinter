@@ -4,6 +4,8 @@
 
 Read The Blog on iRead: https://iread.ga/posts/56/gui-quiz-application-using-tkinter-and-open-trivia-db
 
+Download for Windows [here](https://github.com/ashutoshkrris/GUI-Quiz-Tkinter/raw/master/quiz.exe)
+
 
 ### Screenshots
 
